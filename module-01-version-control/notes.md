@@ -11,7 +11,7 @@ Version control is a system that save history of changes in a file overtime so t
 - Prevent accidental loss of work
 - Makes recovery easier
 
-## Keepng historical copies
+## Keeping historical copies
 
 Without version control people saved files like
 
@@ -69,5 +69,7 @@ Good commit messages describe what changed.
 Examples:
 
 "Add project README"
+
 "Create version control notes"
+
 "Add diff demonstration"
