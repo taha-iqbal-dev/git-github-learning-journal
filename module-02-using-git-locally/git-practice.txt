@@ -1,1 +1,1 @@
-This is a git commands practice file.
+This is a git commands practice file. Where we'll practice commands
