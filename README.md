@@ -6,7 +6,7 @@ This repository documents my learning journey through Google's Introduction to G
 
 - [x] Module 1: Introduction to Version Control
 - [x] Module 2: Using Git Locally
-- [ ] Module 3: Working with Remotes
+- [x] Module 3: Working with Remotes
 - [ ] Module 4: Collaboration
 
 ## Skills Covered
