@@ -1,24 +1,79 @@
 # Git & GitHub Learning Journal
 
-This repository documents my learning journey through Google's Introduction to Git and GitHub course.
+A complete Git & GitHub learning journal created while completing Google's "Introduction to Git and GitHub" course.
 
-## Course Progress
-
-- [x] Module 1: Introduction to Version Control
-- [x] Module 2: Using Git Locally
-- [x] Module 3: Working with Remotes
-- [x] Module 4: Collaboration
 
 ## Skills Covered
 
 - Version Control
-- Git Fundamentals
-- Branching and Merging
-- Remote Repositories
+- Git Basics
+- Branching & Merging
+- Merge Conflicts
+- Remotes
+- GitHub
+- SSH Authentication
+- Rebasing
 - Pull Requests
-- Merge Conflict Resolution
-- GitHub Collaboration
+- Code Reviews
+- Collaboration
+- GitHub Projects
+- GitHub Actions
 
-## Goal
 
-To demonstrate practical Git and GitHub skills through hands-on exercises and examples.
+## Repository Structure
+
+📁 Module 01 – Version Control
+
+📁 Module 02 – Using Git Locally
+
+📁 Module 03 – Working with Remotes
+
+📁 Module 04 – Collaboration
+
+
+## Git Skills Demonstrated
+
+✔ git init
+
+✔ git clone
+
+✔ git add
+
+✔ git commit
+
+✔ git branch
+
+✔ git checkout
+
+✔ git merge
+
+✔ git rebase
+
+✔ git revert
+
+✔ git reset
+
+✔ git fetch
+
+✔ git pull
+
+✔ git push
+
+✔ git remote
+
+✔ git log
+
+✔ git diff
+
+✔ SSH Authentication
+
+✔ Pull Requests
+
+✔ Code Reviews
+
+
+## Course
+
+Google IT Automation with Python Professional Certificate
+
+Course: Introduction to Git and GitHub
